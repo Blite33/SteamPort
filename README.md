@@ -1,6 +1,6 @@
 # SteamPort
 Copies your steam files to another drive in order to run games completely off another drive. Games must be transferred independently through steam game library.\
-## PLEASE GO TO https://github.com/Blite33/SteamPort/releases/tag/v1.1 TO GET THE LATEST VERSION
+## PLEASE GO TO https://github.com/Blite33/SteamPort/releases/latest TO GET THE LATEST VERSION
 ## What all the variables mean
 In the script, you'll see that there is a bunch of variables like "build, unsuccessfull_builds, unsuccessfull_builds_beta, unsuccessfull, beta, demo, fork_build, and fork".
 Most of them are obvious and easy to understand, but you may not understand why there is one called fork, because there is only one fork of SteamPort.
